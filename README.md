@@ -1,5 +1,5 @@
 # skate-shop-inventory-manager
-A fullstack web app for managing product inventory, built with Spring Boot and SQL. 
+A fullstack web app for managing product inventory, built with Spring Boot, SQL, and Bootstrap. 
 
 Contains the following features:
 - Add new skateboard components (e.g., decks, wheels, trucks, bearings, etc.)
